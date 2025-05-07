@@ -15,7 +15,7 @@ This project implements an application based on the Flask framework. The app ana
 
 ### To get started
 1. Clone git repo:
-  `git@github.com:popperony/python-project-83.git`
+  `git@github.com:poweredbyskx/python-project-83.git`
 2. Go to directory page_analyzer:
   `cd page_analyzer`
 3.  Configuring `poetry` to create a virtual environment:
